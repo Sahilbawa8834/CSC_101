@@ -1,0 +1,13 @@
+Date,Product,Quantity,Unit_Price,Total_Sale,Sales_Rep,Region
+2026-09-01,Notebook,8,6.5,52.0,Alice,North
+2026-09-02,Pens,20,2.5,50.0,Bob,South
+2026-09-03,Printer Paper,10,12.0,120.0,Alice,North
+2026-09-04,Desk Chair,2,120.0,240.0,Cara,West
+2026-09-05,Notebook,15,6.5,97.5,Bob,South
+2026-09-06,Desk Chair,1,120.0,120.0,Alice,North
+2026-09-07,Pens,30,2.5,75.0,Cara,West
+2026-09-08,Printer Paper,14,12.0,168.0,Bob,South
+2026-09-09,Notebook,12,6.5,78.0,Cara,West
+2026-09-10,Desk Chair,3,120.0,360.0,Bob,South
+2026-09-11,Printer Paper,8,12.0,96.0,Alice,North
+2026-09-12,Pens,18,2.5,45.0,Alice,North
